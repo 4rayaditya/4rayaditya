@@ -4,9 +4,6 @@
 💡 Interested in browser internals, real-time systems, and modern web APIs  
 🎯 Actively solving DSA and learning new technologies  
 
----
-
----
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rayaditya)
@@ -23,8 +20,9 @@ Buddy Mentor at my college — teaching core CS concepts (OOP in Python) to peer
 
 - ACM SIGAI - Team Head (Web Development) 
 - 4x HACKATHON WINNER
-- Dean's List (Academic - 3 semesters(GPA - 9.67, 10, 9.72)) 
-- Publishing algorithm research papers
+- Dean's List (Academic - 3 semesters  GPA - (9.67, 10, 9.72)/10) 
+- Working on algorithm-focused research publications
+
 
 ---
 
