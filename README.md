@@ -4,9 +4,9 @@
 
   <br/>
 
-# 👋 Hi, I'm Aditya Narayan Ray
+#  Hi, I'm Aditya Narayan Ray
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=CS+Undergraduate+%7C+Open+Source+Enthusiast;Passionate+about+Backend+Systems;Actively+solving+DSA+%26+Algorithmic+Problems;JPMorgan+Chase+%26+Co.+Code+for+Good;Building+High-Performance+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=CS+Undergraduate+%7C+Open+Source+Enthusiast;Passionate+about+Backend+Systems;Actively+solving+DSA+%26+Algorithmic+Problems;Building+High-Performance+Web+Applications)](https://git.io/typing-svg)
 
 </div>
 
@@ -108,12 +108,12 @@ I’m a **Computer Science & Engineering undergraduate** dedicated to engineerin
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=4rayaditya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=4rayaditya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img height="180em" src="https://streak-stats.demolab.com/?user=4rayaditya&theme=tokyonight&hide_border=true" />
 
   <br/><br/>
 
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4rayaditya&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=4rayaditya&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
