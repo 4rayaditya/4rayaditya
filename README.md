@@ -27,7 +27,7 @@ I’m a **Computer Science & Engineering undergraduate** dedicated to engineerin
 
 - 🎓 **Academic Excellence**: **Dean's List** recipient for **4 consecutive semesters** — GPA: `(9.67, 10.0, 9.72, 9.90) / 10.0`
 - 🏢 **JPMorgan Chase & Co. Code for Good**: Built impactful tech solutions under competitive hackathon conditions for non-profit organizations.
-- 🏆 **4x Hackathon Winner** & Team Lead across competitive developer challenges.
+- 🏆 *3x Hackathon Winner** & Team Lead across competitive developer challenges.
 - 👥 **ACM SIGAI**: Team Head (Web Development).
 - 👨‍🏫 **Buddy Mentor**: Academic peer mentor teaching core CS concepts & Object-Oriented Programming (OOP) in Python.
 
