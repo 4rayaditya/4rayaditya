@@ -86,7 +86,7 @@ I’m a **Computer Science & Engineering undergraduate** dedicated to engineerin
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🃏 **Live Reverse-Turing Poker Game** | Interactive real-time poker game platform with reverse-Turing mechanisms. Developed for ACM MUJ. | `TypeScript` `React` `Supabase` `Render` `Vercel` |
-| 🏥 **MediBuddy** | AI-driven medical assistant application delivering real-time preliminary diagnostics & guidance. | `TypeScript` `React` `FastAPI` `Grok API` `Supabase` |
+| 🏥 **VidyaSetu** | A website for connecting volunteers, admin and students for a ngo working in the education field. | `TypeScript` `React` `FastAPI` `Grok API` `Supabase` |
 
 ---
 
